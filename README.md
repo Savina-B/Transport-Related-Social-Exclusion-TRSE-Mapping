@@ -11,7 +11,7 @@ Decision-makers needed evidence on whether transport investments were reaching c
 
 **Approach**:
 
-- Combined proposed corridor data with open TRSE datasets.
+- Combined proposed corridor data with open TRSE datasets in QGIS.
 
 - Classified local areas by exclusion risk.
 
